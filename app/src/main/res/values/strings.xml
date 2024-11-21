@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyToDo</string>
+    <string name="button_1">Lets go</string>
+    <string name="welcome_1">Organize tasks,\nset reminders,\nand stay on top of your\ngoals effortlessly. </string>
+    <string name="title">Title</string>
+    <string name="text">MY TO DO LIST</string>
+    <string name="button">Add Item</string>
+    <string name="home_button_2">Count Down</string>
+
+
+    <string name="alarm_text_1">Select \nTime</string>
+    <string name="alarm_btn_1">Set \nAlarm</string>
+    <string name="alarm_btn_2">Cancel \nAlarm</string>
+    <string name="alarm_Text_2">WElcome to \nNotification Activety</string>
+
+    <string name="text_1">08.45</string>
+    <string name="btn_1">Select Time</string>
+    <string name="btn_2">Set Alarm</string>
+    <string name="btn_3">Cancel Alarm</string>
+
+    <string name="text_1_count">0</string>
+    <string name="text_2">sec time left</string>
+    <string name="text_3">+15s</string>
+    <string name="app_compat">Start</string>
+    <string name="edit_1">00</string>
+    <string name="button_compat">ok</string>
+</resources>
